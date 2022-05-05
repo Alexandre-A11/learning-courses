@@ -6,7 +6,7 @@ Repository to place the courses that i'm doing. 🤓
 
 100 Days of Code - Dra. Angela Yu
 
-## javascript
+## JavaScript
 
 JavaScript - Jonas Schmedtmann
 
