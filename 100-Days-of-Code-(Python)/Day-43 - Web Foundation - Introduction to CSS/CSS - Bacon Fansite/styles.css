@@ -1,0 +1,20 @@
+h1 {
+  font-size: 200px;
+  color: red;
+}
+
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+#heading {
+  color: blue;
+}
+
+img:hover {
+  background-color: yellow;
+}
