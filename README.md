@@ -13,3 +13,7 @@ JavaScript - Jonas Schmedtmann
 ## TypeScript
 
 TypeScript - Matheus Battisti
+
+## React
+
+React - Maximilian Schwarzmüller
