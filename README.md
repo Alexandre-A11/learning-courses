@@ -1,5 +1,3 @@
-[teste2](#react-teste)
-[teste3](#react%20teste)
 # learning-courses
 
 Repository to place the courses that i'm doing. 🤓
