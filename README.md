@@ -14,6 +14,6 @@ JavaScript - Jonas Schmedtmann
 
 TypeScript - Matheus Battisti
 
-## React teste
+## React
 
 React - Maximilian Schwarzmüller
